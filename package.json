@@ -1,0 +1,39 @@
+{
+    "name": "react",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "main": "src/index.tsx",
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-scripts": "^5.0.0",
+      "chart.js": "4.4.3",
+      "yup": "1.4.0",
+      "formik": "2.4.6",
+      "axios": "1.7.2",
+      "react-router-dom": "6.24.1",
+      "react-chartjs-2": "5.2.0",
+      "react-datepicker": "7.3.0",
+      "@mui/material":"5.16.1",
+      "@mui/icons-material": "^5.0.0",
+      "@emotion/react": "^11.0.0",
+      "@emotion/styled": "^11.0.0",
+      "file-saver":"2.0.5"
+    },
+    "devDependencies": {
+      "@types/react": "18.2.38",
+      "@types/react-dom": "18.2.15",
+      "loader-utils": "3.2.1",
+      "typescript": "4.4.4"
+    },
+    "scripts": {
+      "start": "react-scripts start"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ]
+  }
